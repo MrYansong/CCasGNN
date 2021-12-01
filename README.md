@@ -4,6 +4,4 @@ A new framework, collaborative cascade prediction based on graph neural networks
 # Dataset
 We publish the example of processed dataset. Each "list" represents the cascade information. It contains edges, features, nodes(the order of diffusion)
 
-Downlowd link: https://pan.baidu.com/s/1t6TY4fmyu6ezjcwVzRvoyA
-
-password: CCas
+Downlowd link: https://drive.google.com/drive/folders/13k2yKJhRSgGOP9GSBJG7aTsS90JwG337?usp=sharing
