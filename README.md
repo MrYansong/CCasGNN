@@ -6,4 +6,4 @@ We publish the example of processed dataset. Each "list" represents the cascade 
 
 Downlowd link: https://drive.google.com/drive/folders/13k2yKJhRSgGOP9GSBJG7aTsS90JwG337?usp=sharing
 
-The original dataset can be download at: https://www.aminer.cn/data-sna#Twitter-Dynamic-Net
+The original dataset can be download at: https://www.aminer.cn/data-sna#Twitter-Dynamic-Net, https://www.aminer.cn/citation
